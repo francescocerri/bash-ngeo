@@ -1,5 +1,5 @@
 # bash-ngeo
-Bash Script to download National Geographic Picture Of The Day for Linux
+Bash Script to download National Geographic Picture Of The Day at the highest resolution for Linux
 
 Setup
 =================
